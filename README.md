@@ -76,11 +76,3 @@ Open and run the notebook directly in Google Colab:
 ## 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-
----
-
-👉 You just need to:  
-1. Replace `YOUR_COLAB_NOTEBOOK_LINK` with your Colab notebook link.  
-2. Add your **actual metrics (MSE, MAE, R²)** in the results section.  
-
-Would you like me to **extract those metric values directly from your notebook** so you don’t have to fill them in manually?
