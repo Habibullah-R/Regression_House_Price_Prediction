@@ -17,11 +17,13 @@ This project demonstrates:
 
 ## 📂 Project Structure
 
-├── Regression_House_price_Prediction.ipynb
-├── house price (train).csv
-├── house price test.csv
-├── requirements.txt 
-└── README.md 
+src/
+├── components/
+│   ├── Stories.jsx     // Main component for displaying and managing stories
+│   ├── Modal.jsx       // Modal for viewing individual stories with SwiperJS
+├── index.css           // Tailwind and custom styles
+└── App.js              // Entry point for the application
+
 
 
 
