@@ -60,7 +60,7 @@ This project demonstrates:
 ### Run in Google Colab
 Open and run the notebook directly in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/drive/1KyMjMc0_CUq270NRkBOt4mcV_4_o1Qgd?usp=sharing)](YOUR_COLAB_NOTEBOOK_LINK)
+[Open In Colab](https://colab.research.google.com/drive/1KyMjMc0_CUq270NRkBOt4mcV_4_o1Qgd?usp=sharing)
 
 ### Run Locally
 1. Clone the repository:
